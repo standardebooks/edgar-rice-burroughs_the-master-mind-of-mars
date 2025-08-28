@@ -68,7 +68,7 @@
 		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">Cindy Beyer &amp;amp</dc:contributor>
+		<dc:contributor id="transcriber-2">Cindy Beyer &amp;</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
