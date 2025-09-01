@@ -1,2 +1,31 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+p[epub|type~="se:letter.dateline"]{
+	text-align: right;
+}
+
+span.place{
+	font-variant: small-caps;
+}
+
+span.signature{
+	font-variant: small-caps;
+}
+
+p[epub|type~="z3998:salutation"]{
+	font-variant: small-caps;
+	margin-left: 0;
+	padding-left: 0;
+}
+
+[epub|type~="z3998:letter"] header{
+	margin-bottom: 0;
+	padding-bottom: 0;
+	text-align: left;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
