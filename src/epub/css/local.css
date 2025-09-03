@@ -5,24 +5,14 @@ p[epub|type~="se:letter.dateline"]{
 	text-align: right;
 }
 
-span.place{
+span.letter-em{
 	font-variant: small-caps;
 }
 
-span.signature{
-	font-variant: small-caps;
-}
 
 p[epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
-	margin-left: 0;
-	padding-left: 0;
-}
-
-[epub|type~="z3998:letter"] header{
-	margin-bottom: 0;
-	padding-bottom: 0;
-	text-align: left;
+	text-indent: 0;
 }
 
 footer{
