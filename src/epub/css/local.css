@@ -27,3 +27,12 @@ section[epub|type~="preface"] header + p{
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
+
+section[epub|type~="preface"] footer p{
+	font-style: italic;
+}
+
+section[epub|type~="preface"] footer p span,
+section[epub|type~="preface"] footer p b{
+	font-style: normal;
+}
