@@ -51,7 +51,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Martian</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">6</meta>
-		<dc:description id="description">Ulysses Paxton becomes the first Earthman to reach Mars in the wake of John Carter.</dc:description>
+		<dc:description id="description">A new hero from Earth reaches Mars and battles a merchant of purloined youth.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Master Mind of Mars&lt;/i&gt; is the sixth installment in the &lt;a href="https://standardebooks.org/collections/martian"&gt;Martian series&lt;/a&gt;. It was published as a novel by A. C. McClurg in March, 1928, after first appearing in the magazine &lt;i&gt;Amazing Stories Annual&lt;/i&gt; vol. 1, on July 15, 1927. We are introduced to Ulysses Paxton, a new hero to the Mars series and the first Earthman to follow the trail to Mars blazed by John Carter. Paxton becomes an apprentice of the brilliant, arrogant and utterly amoral Ras Thavas, dealer of youth and beauty to the elites of Mars—until Paxton rebels, driven by disgust with his master, and seeking to restore the woman he loves. Besides giving us the usual swashbuckling &lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs"&gt;Burroughs&lt;/a&gt; continues exploring the mind/body themes of &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs/the-chessmen-of-mars"&gt;The Chessmen of Mars&lt;/a&gt;&lt;/i&gt;, and offers a strong satire of religious fundamentalism that is reputed to have made it difficult for him to find a publisher for the tale.&lt;/p&gt;
 		</meta>
