@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/edgar-rice-burroughs/the-master-mind-of-mars</dc:identifier>
 		<dc:date>2025-09-15T18:29:19Z</dc:date>
@@ -53,12 +53,12 @@
 		<meta id="collection-1" property="belongs-to-collection">Martian</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">6</meta>
-		<dc:description id="description">A new hero from Earth reaches Mars and battles a merchant of purloined youth.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A new hero from Earth reaches Mars and battles a merchant of purloined youth.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Master Mind of Mars&lt;/i&gt; is the sixth installment in the &lt;a href="https://standardebooks.org/collections/martian"&gt;Martian series&lt;/a&gt;. It was published as a novel by A. C. McClurg in March, 1928, after being serialized in the magazine &lt;i&gt;Amazing Stories Annual&lt;/i&gt; in 1927.&lt;/p&gt;
 			&lt;p&gt;Ulysses Paxton, the first Earthman to follow the trail to Mars blazed by John Carter, becomes an apprentice of the brilliant, arrogant, and utterly amoral Ras Thavas, dealer of youth and beauty to the elites of Mars—until Paxton, driven by disgust with his master, rebels to seek the woman he loves.&lt;/p&gt;
 			&lt;p&gt;Besides the usual swashbuckling adventure typical of the Mars books, &lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs"&gt;Burroughs&lt;/a&gt; continues exploring the themes of mind and body introduced in &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs/the-chessmen-of-mars"&gt;The Chessmen of Mars&lt;/a&gt;&lt;/i&gt;. He also satirizes religious fundamentalism, which reputedly made it more difficult to find a publisher for this book.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/69703</dc:source>
 		<dc:source>https://archive.org/details/mastermindofmars0000edga</dc:source>
