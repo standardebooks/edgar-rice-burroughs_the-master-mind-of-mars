@@ -53,7 +53,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Martian</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">6</meta>
-		<dc:abstract>A new hero from Earth reaches Mars and battles a merchant of purloined youth.</dc:abstract>
+		<meta property="schema:abstract">A new hero from Earth reaches Mars and battles a merchant of purloined youth.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Master Mind of Mars&lt;/i&gt; is the sixth installment in the &lt;a href="https://standardebooks.org/collections/martian"&gt;Martian series&lt;/a&gt;. It was published as a novel by A. C. McClurg in March, 1928, after being serialized in the magazine &lt;i&gt;Amazing Stories Annual&lt;/i&gt; in 1927.&lt;/p&gt;
 			&lt;p&gt;Ulysses Paxton, the first Earthman to follow the trail to Mars blazed by John Carter, becomes an apprentice of the brilliant, arrogant, and utterly amoral Ras Thavas, dealer of youth and beauty to the elites of Mars—until Paxton, driven by disgust with his master, rebels to seek the woman he loves.&lt;/p&gt;
