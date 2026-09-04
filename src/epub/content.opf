@@ -38,9 +38,9 @@
 		<meta property="file-as" refines="#fulltitle">Master Mind of Mars, The</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
-		<dc:subject id="subject-2">Extraterrestrial beings -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Mars (Planet) -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Life on other planets -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Extraterrestrial beings--Fiction</dc:subject>
+		<dc:subject id="subject-3">Mars (Planet)--Fiction</dc:subject>
+		<dc:subject id="subject-4">Life on other planets--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
